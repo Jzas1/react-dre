@@ -1,6 +1,7 @@
 import React from 'react'
 
 const CommentDetail = (props) => {
+    const m = 'commits'
     return (
 
         <div className="comment">
